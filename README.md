@@ -1,6 +1,8 @@
 # CryptoClustering
 # Cryptocurrency Clustering with K-Means and PCA
 
+![Crypto_Coin](https://github.com/user-attachments/assets/489b4800-53e7-41fb-9fa0-db1b1441c516)
+
 ## Project Overview
 
 This project applies unsupervised learning techniques, specifically K-Means clustering, to analyze and group cryptocurrencies based on their price change 
@@ -31,15 +33,12 @@ The project aims to explore whether cryptocurrencies are affected by price chang
 ## Installation and Setup
 
 1. Clone the repository to your local machine:
-    ```bash
     git clone <repository-url>
     
 2. Navigate to the project folder:
-    ```bash
     cd CryptoClustering
     
 3. Open the Jupyter Notebook:
-    ```bash
     jupyter notebook
     
 
